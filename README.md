@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-* My name's Nicholas Stathakis ✨
-* I've been an Android Engineer for over 4 years 📱
-* I've built both Mobile and TV apps used by 300,000 users daily 📺📈
-* I've developed apps with Kotlin + Compose 🛠️, and maintained apps with Java + XML 💻
-* I have specialist experience with Bluetooth Systems 🔵📡 + Mapping Software 🗺️
+I'm Nicholas - Android Engineer at Canva with 5+ years shipping production apps to millions of users.
+
+- 📱 Mobile & TV apps with Kotlin + Compose
+- 🔵 Bluetooth systems & mapping experience
+- 🎓 BCompSci UNSW, 91 WAM, Dean's Honour List ×2
