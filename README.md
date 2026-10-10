@@ -5,4 +5,5 @@ I'm Nicholas, a Software Engineer at Canva with 5+ years shipping production app
 - 📱 Mobile & TV apps with Kotlin + Compose
 - 🔵 Bluetooth systems & mapping experience
 - 🎓 BCompSci UNSW, 91 WAM, Dean's Honour List ×2
+
 Portfolio: https://nicholasstathakis.github.io
