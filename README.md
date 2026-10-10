@@ -1,7 +1,5 @@
-## Hi there 👋
+## Hello
 
-I'm Nicholas, a Software Engineer at Canva with 5+ years shipping production apps to millions of users.
+I'm Nick, a Software Engineer who's spent over 5 years shipping code to hundreds of millions of users.
 
-- 📱 Mobile & TV apps with Kotlin + Compose
-- 🔵 Bluetooth systems & mapping experience
-- 🎓 BCompSci UNSW, 91 WAM, Dean's Honour List ×2
+[nicholasstathakis.github.io](https://nicholasstathakis.github.io/)
